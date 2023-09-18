@@ -1,0 +1,22 @@
+#foto{
+    text-align: center;
+}
+
+.fondo-titulo{
+    background-color: #576679;
+    color: white;
+    padding: 10px;
+}
+
+#titulo{
+    font-size: 40px;
+    font-style: normal;
+    text-align: center;
+}
+
+#footer{
+    background: #576679;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
